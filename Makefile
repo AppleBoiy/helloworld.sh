@@ -1,8 +1,8 @@
 .SILENT:
 
 compile:
-	shc -f main.sh
-	mv main.sh.x main
+	shc -f main
+	mv main.x main
 
 
 run: compile
