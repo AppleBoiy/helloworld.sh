@@ -1,4 +1,4 @@
-# BASH - Bourne Again Shell
+# BASH - Bourne Again Shell <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3H3O9py5UVrYrh-3l9M2iZ7D59XkOMvWuu_Qwp4lVYA&s" width=100 alt="Bash logo" align="right">
 
 ### Before you start
 
